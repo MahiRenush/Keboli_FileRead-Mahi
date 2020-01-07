@@ -1,0 +1,1 @@
+This file is a sample document which is read through node server and then will be parsed to find size.
